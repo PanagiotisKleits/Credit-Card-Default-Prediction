@@ -37,3 +37,9 @@ Features are split into two categories:
 | Logistic Regression | 0.709 | 0.419
 | Hybrid CNN | 0.770 | 0.540 
 | XGBoost | 0.783 | 0.566 
+
+## Usage
+
+1. Download the dataset from the link above and place it as `UCI_Credit_Card.csv`
+2. Open `CNN_.ipynb` in Google Colab or Jupyter Notebook
+3. Run all cells sequentially
